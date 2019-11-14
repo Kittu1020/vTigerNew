@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Hai Babee@!!!!!]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1483" started-at="2019-11-14T17:01:35 IST" finished-at="2019-11-14T17:01:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1483" started-at="2019-11-14T17:01:35 IST" finished-at="2019-11-14T17:01:36 IST">
+      <class name="vTigerNew.New">
+        <test-method status="PASS" signature="new1()[pri:0, instance:vTigerNew.New@20398b7c]" name="new1" duration-ms="300" started-at="2019-11-14T17:01:36 IST" finished-at="2019-11-14T17:01:36 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Hai Babee@!!!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- new1 -->
+      </class> <!-- vTigerNew.New -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
